@@ -12,4 +12,5 @@ Unfortunately Global Conditional Rendering Rules only work out of the box with W
 
 Be warned though, having several global rules will affect the performance of the site!
 
-In this repository you will find a processor for Sitecore MVC that enabled Global Conditional Rendering Rules and also condition (might show up more conditions and actions)
+In this repository you will find a processor for Sitecore MVC that enabled Global Conditional Rendering Rules and also a condition that checks if a renderings datasource have any versions.
+(might show up more conditions and actions)
